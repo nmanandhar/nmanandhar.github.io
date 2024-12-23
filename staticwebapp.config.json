@@ -1,0 +1,9 @@
+{
+  "routes": [{
+    "route": "resource*",
+    "redirect": "/api/resource"
+  }],
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  }
+}

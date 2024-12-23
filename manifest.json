@@ -1,0 +1,25 @@
+{
+  "short_name": "Notepecker",
+  "name": "Notepecker",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "48x48",
+      "type": "image/svg"
+    },
+    {
+      "src": "logo.svg",
+      "sizes": "72x72 96x96 128x128 256x256",
+      "type": "image/svg"
+    },
+    {
+      "src": "logo.svg",
+      "sizes": "all",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
